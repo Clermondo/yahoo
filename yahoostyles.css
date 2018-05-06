@@ -1,0 +1,56 @@
+body{
+  background-image: url(images/ocean.jpg);
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+#yahooicon{
+  height: 6.5em;
+  width: 5.4em;
+  margin-left: -.6em;
+  margin-top: -.3em;
+}
+#searchbar{
+  height:2.5em;
+  width:83em;
+  border-style: none;
+  font-size: 2.5em;
+
+}
+#persona{
+  height:5em;
+  width:5em;
+  border-radius: 10em;
+  display:flex;
+  margin-top: .6em;
+  margin-right: .6em;
+}
+div h6{
+  font-size: 1em;
+  margin-bottom:1em;
+}
+.nav-bar{
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  width: 100.8%;
+  margin-top: -0.5em;
+  margin-left: -0.5em;
+}
+.status{
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1.2em;
+  font-weight: bold;
+  border-bottom: .5px solid white;
+  color: silver;
+}
+h1{
+  display:flex;
+  font-size: 5em;
+  justify-content: center;
+  color: silver;
+}
+h6{
+  justify-content: flex-end;
+  flex-direction: row-reverse;
+}
