@@ -1,5 +1,5 @@
 body{
-  background-image: url(images/ocean.jpg);
+  background-image: url(ocean.jpg);
   background-repeat: repeat-y;
   background-size: cover;
 }
@@ -10,11 +10,10 @@ body{
   margin-top: -.3em;
 }
 #searchbar{
-  height:2.5em;
+  height: 1.0em;
   width:83em;
   border-style: none;
   font-size: 2.5em;
-
 }
 #persona{
   height:5em;
